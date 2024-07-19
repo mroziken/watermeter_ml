@@ -1,0 +1,6 @@
+streamlit
+pillow
+requests
+google-cloud-storage
+google-cloud-automl
+python-dotenv
